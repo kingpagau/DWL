@@ -25,6 +25,6 @@ This respository contains the following scripts and code snipplets:
 - API_Match_History_For_Lambda.ipynb
 - API_Player_Count_For_Lambda.ipynb
 #### AWS Lamda functions:
-- aoe_match_history_lambda_function
-- aoe_player_count_lamda_function
+- aoe_match_history_lambda_function.py
+- aoe_player_count_lamda_function.py
 
