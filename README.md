@@ -39,10 +39,11 @@ The Jupyter Notebook
 
 contains the code to ingest a static API via JSON-file creation and uploads the files to an AWS S3 Bucket via AWS CLI. 
 
-The the scripts
+The Python scripts
 
 - aoe_match_history_lambda_function.py
 - aoe_player_count_lamda_function.py
+- Connect Database - Create tables.py
 
 are the implementation of the described Jupyter Notebooks above as a AWS Lambda function in the AWS surrounding. The Lamda Functions are both triggered every 10 minutes by AWS EventBridge (CloudWatch Events).
 
