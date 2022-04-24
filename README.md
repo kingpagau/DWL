@@ -16,7 +16,15 @@ Pascal Wälti
 13-917-448
 pascal.waelti@stud.hslu.ch
 
-## Table of content
+### Table of content
 
 This respository contains the following scripts and code snipplets:
+Jupyter Notebooks:
+- API_Herokuapp_for_CLI.ipynb
+- API_Match_History_For_Lambda.ipynb
+- API_Player_Count_For_Lambda.ipynb
+
+AWS Lamda functions:
 - 
+- 
+
