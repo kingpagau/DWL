@@ -20,6 +20,10 @@ pascal.waelti@stud.hslu.ch
 - API_Herokuapp_for_CLI.ipynb (CLI_pipeline)
 - API_Match_History_For_Lambda.ipynb (exploratory_and_commented_code)
 - API_Player_Count_For_Lambda.ipynb (exploratory_and_commented_code)
+- API_Match_History.ipynb
+- API_Player_Count.ipynb
+- APIs.ipynb
+
 #### AWS Lamda functions:
 - aoe_match_history_lambda_function.py (lamda_functions)
 - aoe_player_count_lamda_function.py (lamda_functions)
@@ -44,6 +48,12 @@ The Python scripts
 - aoe_match_history_lambda_function.py
 - aoe_player_count_lamda_function.py
 - Connect Database - Create tables.py
+
+Additionally the Jupyter Notebooks to analyse the APIs and execute stresstests are also provided
+
+- API_Match_History.ipynb
+- API_Player_Count.ipynb
+- APIs.ipynb
 
 are the implementation of the described Jupyter Notebooks above as a AWS Lambda function in the AWS surrounding. The Lamda Functions are both triggered every 10 minutes by AWS EventBridge (CloudWatch Events).
 
