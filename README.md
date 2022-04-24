@@ -19,11 +19,12 @@ pascal.waelti@stud.hslu.ch
 ### Table of content
 
 This respository contains the following scripts and code snipplets:
-Jupyter Notebooks:
+
+#### Jupyter Notebooks:
 - API_Herokuapp_for_CLI.ipynb
 - API_Match_History_For_Lambda.ipynb
 - API_Player_Count_For_Lambda.ipynb
-AWS Lamda functions:
+#### AWS Lamda functions:
 - 
 - 
 
