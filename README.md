@@ -5,6 +5,7 @@ This document describes the functions used for the following project:
 ### Data Warehouse and Data Lake I & II
 	
 Authors: 	
+
 Lukas Bucher
 13-927-884
 lukas.bucher.01@stud.hslu.ch
