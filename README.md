@@ -38,7 +38,7 @@ The Jupyter Notebook
 
 - API_Herokuapp_for_CLI.ipynb
 
-contains the code to ingest a static API via JSON-file creation and uploads the files to an AWS S3 Bucket via AWS CLI.
+contains the code to ingest a static API via JSON-file creation and uploads the files to an AWS S3 Bucket via AWS CLI. If you need access to the S3 Bucket please contact pascal.waelti@stud.hslu.com for the credentials. The hardcoded credentials in the code need to updated by for every new Learner Lab - Foundational Services session.
 
 The the scripts
 
