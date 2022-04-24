@@ -18,12 +18,12 @@ pascal.waelti@stud.hslu.ch
 
 ### Table of Scripts
 #### Jupyter Notebooks:
-- API_Herokuapp_for_CLI.ipynb
-- API_Match_History_For_Lambda.ipynb
-- API_Player_Count_For_Lambda.ipynb
+- API_Herokuapp_for_CLI.ipynb (CLI_pipeline)
+- API_Match_History_For_Lambda.ipynb (exploratory_and_commented_code)
+- API_Player_Count_For_Lambda.ipynb (exploratory_and_commented_code)
 #### AWS Lamda functions:
-- aoe_match_history_lambda_function.py
-- aoe_player_count_lamda_function.py
+- aoe_match_history_lambda_function.py (lamda_functions)
+- aoe_player_count_lamda_function.py (lamda_functions)
 
 ### Usage of Scripts
 
