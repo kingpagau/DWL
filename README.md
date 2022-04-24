@@ -6,16 +6,13 @@ This document describes the functions used for the following project:
 	
 Authors: 	
 
-Lukas Bucher
-13-927-884
+Lukas Bucher, 
 lukas.bucher.01@stud.hslu.ch
 
-Tihomir Danesic
-16-660-334
+Tihomir Danesic, 
 tihomir.danesic@stud.hslu.ch
 
-Pascal Wälti
-13-917-448
+Pascal Wälti, 
 pascal.waelti@stud.hslu.ch
 
 ### Table of Scripts
