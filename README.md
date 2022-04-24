@@ -15,3 +15,8 @@ tihomir.danesic@stud.hslu.ch
 Pascal Wälti
 13-917-448
 pascal.waelti@stud.hslu.ch
+
+## Table of content
+
+This respository contains the following scripts and code snipplets:
+- 
