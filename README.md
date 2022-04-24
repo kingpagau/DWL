@@ -38,7 +38,7 @@ The Jupyter Notebook
 
 - API_Herokuapp_for_CLI.ipynb
 
-contains the code to ingest a static API via JSON-file creation and uploads the files to an AWS S3 Bucket via AWS CLI. If you need access to the S3 Bucket please contact pascal.waelti@stud.hslu.com for the credentials. The hardcoded credentials in the code need to updated by for every new Learner Lab - Foundational Services session.
+contains the code to ingest a static API via JSON-file creation and uploads the files to an AWS S3 Bucket via AWS CLI. 
 
 The the scripts
 
@@ -48,3 +48,7 @@ The the scripts
 are the implementation of the described Jupyter Notebooks above as a AWS Lambda function in the AWS surrounding. The Lamda Functions are both triggered every 10 minutes by AWS EventBridge (CloudWatch Events).
 
 ### Access to PostgreSQL database and AWS S3 Bucket
+
+All databases and the S3 Bucket are publicly available.
+
+However if you need the user credentials in order to upload the static API to the S3 Bucket please contact pascal.waelti@stud.hslu.com. The hardcoded credentials in the code need to updated by for every new Learner Lab - Foundational Services session.
