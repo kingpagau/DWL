@@ -49,3 +49,5 @@ The the scripts
 - aoe_player_count_lamda_function.py
 
 are the implementation of the described Jupyter Notebooks above as a AWS Lambda function in the AWS surrounding. The Lamda Functions are both triggered every 10 minutes by AWS EventBridge (CloudWatch Events).
+
+### Access to PostgreSQL database and AWS S3 Bucket
