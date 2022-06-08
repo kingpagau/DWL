@@ -15,7 +15,7 @@ tihomir.danesic@stud.hslu.ch
 Pascal Wälti, 
 pascal.waelti@stud.hslu.ch
 
-## DWL II
+## DWL I
 
 ### Table of Scripts
 #### Jupyter Notebooks:
