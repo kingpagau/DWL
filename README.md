@@ -70,7 +70,7 @@ are the implementation of the described Jupyter Notebooks above as a AWS Lambda 
 - dwl2.ipynb
 
 #### AWS Lamda functions:
-- 
+- warehouse_player_count_lambda_function.py
 - warehouse_match_history_lamda_function.py
 
 ### Usage of Scripts
@@ -82,15 +82,14 @@ The Jupyter Notebooks
 
 are in the Repo for completeness of documentation. While these two scripts also contain test and explorational code as well as comments for explanation. The scripts contain the code to get the data from the AWS RDS Postgres Datalake, executes minor cleanings and then transfer the data to the AWS RDS Postgres Datawarehouse. 
 
-The Python scripts are used to formulate the lambda functions and to setup the database tables
-
-- Player_Count_Warehouse.ipynb
-- Match_History_Warehouse.ipynb
-
 Additionally the Jupyter Notebooks to analyse the data of the data lake and execute stresstests are also provided
 
 - dwl2.ipynb
 
+The Python scripts are used to formulate the lambda functions and to setup the database tables
+
+- Player_Count_Warehouse.ipynb
+- Match_History_Warehouse.ipynb
 
 ## Access to PostgreSQL database and AWS S3 Bucket
 
