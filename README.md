@@ -71,7 +71,7 @@ are the implementation of the described Jupyter Notebooks above as a AWS Lambda 
 
 #### AWS Lamda functions:
 - 
--
+- warehouse_match_history_lamda_function.py
 
 ### Usage of Scripts
 
