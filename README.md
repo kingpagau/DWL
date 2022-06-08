@@ -15,7 +15,7 @@ tihomir.danesic@stud.hslu.ch
 Pascal Wälti, 
 pascal.waelti@stud.hslu.ch
 
-C
+## DWL II
 
 ### Table of Scripts
 #### Jupyter Notebooks:
@@ -45,7 +45,7 @@ The Jupyter Notebook
 
 contains the code to ingest a static API via JSON-file creation and uploads the files to an AWS S3 Bucket via AWS CLI. 
 
-The Python scripts
+The Python scripts are used to formulate the lambda functions and to setup the database tables
 
 - aoe_match_history_lambda_function.py
 - aoe_player_count_lamda_function.py
@@ -62,7 +62,19 @@ are the implementation of the described Jupyter Notebooks above as a AWS Lambda 
 
 ## DWL II
 
-### Access to PostgreSQL database and AWS S3 Bucket
+### Table of Scripts
+#### Jupyter Notebooks:
+-
+-
+-
+-
+
+#### AWS Lamda functions:
+-
+-
+
+
+## Access to PostgreSQL database and AWS S3 Bucket
 
 All databases and the S3 Bucket are publicly available.
 
