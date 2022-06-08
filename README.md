@@ -66,8 +66,7 @@ are the implementation of the described Jupyter Notebooks above as a AWS Lambda 
 #### Jupyter Notebooks:
 - Player_Count_Warehouse.ipynb
 - Match_History_Warehouse.ipynb
--
-- dwl2.ipynb
+- data_quality_and_cleaning.ipynb
 
 #### AWS Lamda functions:
 - warehouse_player_count_lambda_function.py
@@ -84,7 +83,7 @@ are in the Repo for completeness of documentation. While these two scripts also 
 
 Additionally the Jupyter Notebooks to analyse the data of the data lake and execute stresstests are also provided
 
-- dwl2.ipynb
+- data_quality_and_cleaning.ipynb
 
 The Python scripts are used to formulate the lambda functions and to setup the database tables
 
