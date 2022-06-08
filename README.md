@@ -1,6 +1,6 @@
 This document describes the functions used for the following project:
 
-## Team: Age of Data II
+# Team: Age of Data II
 
 ### Data Warehouse and Data Lake I & II
 	
@@ -14,6 +14,8 @@ tihomir.danesic@stud.hslu.ch
 
 Pascal Wälti, 
 pascal.waelti@stud.hslu.ch
+
+C
 
 ### Table of Scripts
 #### Jupyter Notebooks:
@@ -56,6 +58,9 @@ Additionally the Jupyter Notebooks to analyse the APIs and execute stresstests a
 - APIs.ipynb
 
 are the implementation of the described Jupyter Notebooks above as a AWS Lambda function in the AWS surrounding. The Lamda Functions are both triggered every 10 minutes by AWS EventBridge (CloudWatch Events).
+
+
+## DWL II
 
 ### Access to PostgreSQL database and AWS S3 Bucket
 
