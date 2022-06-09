@@ -79,13 +79,13 @@ The Jupyter Notebooks
 - Player_Count_Warehouse.ipynb
 - Match_History_Warehouse.ipynb
 
-are in the Repo for completeness of documentation. While these two scripts also contain test and explorational code as well as comments for explanation. The scripts contain the code to get the data from the AWS RDS Postgres Datalake, executes minor cleanings and then transfer the data to the AWS RDS Postgres Datawarehouse. 
+are in the Repo for completeness of documentation. These two scripts contain test and explorational code as well as comments for explanation. The scripts contain the code to get the data from the AWS RDS Postgres Datalake, executes minor cleanings and then transfer the data to the PostgreSQL data warehouse. 
 
-Additionally the Jupyter Notebooks to analyse the data of the data lake and execute stresstests are also provided
+Additionally the Jupyter Notebooks to analyse the data of the data lake and execute stresstests are provided in
 
 - data_quality_and_cleaning.ipynb
 
-The Python scripts are used to formulate the lambda functions and to setup the database tables
+The Python scripts are used to formulate the AWS Lambda functions and to setup the database tables (the AWS Lambda for the match history is limited to 40'000 entries due to performance issues on the whole data set)
 
 - Player_Count_Warehouse.ipynb
 - Match_History_Warehouse.ipynb
